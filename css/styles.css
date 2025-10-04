@@ -33,18 +33,15 @@ p{
     font-size: 18px;
     cursor: pointer;
 }
-
-.contenedor{
-    padding: 15px;
-    margin-top: 20px;
-    background-color: lightgray;
+.estilo1{
+    border: 2px solid black;
+    background-color: grey;
 }
 
-.redondeado{
+.estilo2{
     border-radius: 15px;
 }
 
-.sombra{
-    box-shadow: 4px 4px 10px gray;
-    border: 2px solid black;
+.estilo3{
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.5);
 }
